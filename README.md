@@ -1,4 +1,5 @@
 # Ondřej Malý
+Student of 42 School in Prague
 
 **Projects:**
  + [scheduler](https://github.com/ylam21/scheduler) - Tool for scheduling workdays for employees
